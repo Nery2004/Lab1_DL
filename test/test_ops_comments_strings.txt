@@ -1,0 +1,29 @@
+a + b - c * d / e
+
+x == y
+x != y
+x <= y
+x >= y
+x < y
+x > y
+
+flag1 && flag2
+flag1 || flag2
+!flag1
+
+// Este es un comentario de una línea
+a = 10; // comentario después de código
+
+/* 
+   Comentario multilínea
+   con operadores: == != <= >= && || !
+   y números 123 0xFF 3.14
+*/
+
+mensaje = "Hola mundo";
+salto = "Linea\nNueva";
+tabulacion = "Columna1\tColumna2";
+comillas = "Texto con \"comillas\" internas";
+barra = "Ruta C:\\Users\\josem";
+
+"String sin cerrar
